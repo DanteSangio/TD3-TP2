@@ -1,0 +1,20 @@
+# Don't care about this files
+bin/*
+sup/*
+test/*
+!test/*.c
+
+inc/*.o
+inc/*.bin
+inc/*.elf
+
+src/*.o
+src/*.bin
+src/*.elf
+
+obj/*.o
+
+
+
+
+

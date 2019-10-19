@@ -1,0 +1,228 @@
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+4 S root         1     0  0  80   0 - 46351 -      13:45 ?        00:00:02 /sbin/init splash
+1 S root         2     0  0  80   0 -     0 -      13:45 ?        00:00:00 [kthreadd]
+1 I root         4     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/0:0H]
+1 I root         6     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [mm_percpu_wq]
+1 S root         7     2  0  80   0 -     0 -      13:45 ?        00:00:00 [ksoftirqd/0]
+1 I root         8     2  0  80   0 -     0 -      13:45 ?        00:00:13 [rcu_sched]
+1 I root         9     2  0  80   0 -     0 -      13:45 ?        00:00:00 [rcu_bh]
+1 S root        10     2  0 -40   - -     0 -      13:45 ?        00:00:00 [migration/0]
+5 S root        11     2  0 -40   - -     0 -      13:45 ?        00:00:00 [watchdog/0]
+1 S root        12     2  0  80   0 -     0 -      13:45 ?        00:00:00 [cpuhp/0]
+1 S root        13     2  0  80   0 -     0 -      13:45 ?        00:00:00 [cpuhp/1]
+5 S root        14     2  0 -40   - -     0 -      13:45 ?        00:00:00 [watchdog/1]
+1 S root        15     2  0 -40   - -     0 -      13:45 ?        00:00:00 [migration/1]
+1 S root        16     2  0  80   0 -     0 -      13:45 ?        00:00:00 [ksoftirqd/1]
+1 I root        18     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/1:0H]
+1 S root        19     2  0  80   0 -     0 -      13:45 ?        00:00:00 [cpuhp/2]
+5 S root        20     2  0 -40   - -     0 -      13:45 ?        00:00:00 [watchdog/2]
+1 S root        21     2  0 -40   - -     0 -      13:45 ?        00:00:00 [migration/2]
+1 S root        22     2  0  80   0 -     0 -      13:45 ?        00:00:00 [ksoftirqd/2]
+1 I root        24     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/2:0H]
+1 S root        25     2  0  80   0 -     0 -      13:45 ?        00:00:00 [cpuhp/3]
+5 S root        26     2  0 -40   - -     0 -      13:45 ?        00:00:00 [watchdog/3]
+1 S root        27     2  0 -40   - -     0 -      13:45 ?        00:00:00 [migration/3]
+1 S root        28     2  0  80   0 -     0 -      13:45 ?        00:00:00 [ksoftirqd/3]
+1 I root        30     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/3:0H]
+5 S root        31     2  0  80   0 -     0 -      13:45 ?        00:00:00 [kdevtmpfs]
+1 I root        32     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [netns]
+1 S root        33     2  0  80   0 -     0 -      13:45 ?        00:00:00 [rcu_tasks_kthre]
+1 S root        34     2  0  80   0 -     0 -      13:45 ?        00:00:00 [kauditd]
+1 S root        37     2  0  80   0 -     0 -      13:45 ?        00:00:00 [khungtaskd]
+1 S root        38     2  0  80   0 -     0 -      13:45 ?        00:00:00 [oom_reaper]
+1 I root        39     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [writeback]
+1 S root        40     2  0  80   0 -     0 -      13:45 ?        00:00:00 [kcompactd0]
+1 S root        41     2  0  85   5 -     0 -      13:45 ?        00:00:00 [ksmd]
+1 S root        42     2  0  99  19 -     0 -      13:45 ?        00:00:00 [khugepaged]
+1 I root        43     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [crypto]
+1 I root        44     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kintegrityd]
+1 I root        45     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kblockd]
+1 I root        47     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [ata_sff]
+1 I root        48     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [md]
+1 I root        49     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [edac-poller]
+1 I root        50     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [devfreq_wq]
+1 S root        51     2  0 -40   - -     0 -      13:45 ?        00:00:00 [watchdogd]
+1 S root        55     2  0  80   0 -     0 -      13:45 ?        00:00:00 [kswapd0]
+1 S root        56     2  0  80   0 -     0 -      13:45 ?        00:00:00 [ecryptfs-kthrea]
+1 I root        98     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kthrotld]
+1 I root        99     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [acpi_thermal_pm]
+1 I root       101     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [nvme-wq]
+1 I root       102     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [nvme-reset-wq]
+1 I root       103     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [nvme-delete-wq]
+1 I root       107     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [ipv6_addrconf]
+1 I root       117     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kstrp]
+1 I root       134     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [charger_manager]
+1 S root       192     2  0  80   0 -     0 -      13:45 ?        00:00:00 [scsi_eh_0]
+1 I root       193     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [scsi_tmf_0]
+1 S root       194     2  0  80   0 -     0 -      13:45 ?        00:00:00 [scsi_eh_1]
+1 I root       195     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [scsi_tmf_1]
+1 I root       197     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/u9:0]
+1 S root       198     2  0  58   - -     0 -      13:45 ?        00:00:04 [i915/signal:0]
+1 S root       199     2  0  58   - -     0 -      13:45 ?        00:00:00 [i915/signal:1]
+1 S root       200     2  0  58   - -     0 -      13:45 ?        00:00:00 [i915/signal:2]
+1 S root       201     2  0  58   - -     0 -      13:45 ?        00:00:00 [i915/signal:4]
+1 I root       205     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [nvkm-disp]
+1 I root       207     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [ttm_swap]
+1 I root       220     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/2:1H]
+1 I root       242     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/1:1H]
+1 S root       244     2  0  80   0 -     0 -      13:45 ?        00:00:01 [jbd2/sda5-8]
+1 I root       245     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [ext4-rsv-conver]
+1 I root       259     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/3:1H]
+1 I root       272     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/0:1H]
+4 S root       283     1  0  80   0 -  8875 -      13:45 ?        00:00:08 /lib/systemd/systemd-journald
+4 S root       298     1  0  80   0 - 11676 -      13:45 ?        00:00:00 /lib/systemd/systemd-udevd
+1 S root       343     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [loop0]
+1 S root       355     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [loop1]
+1 S root       361     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [loop2]
+1 S root       367     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [loop3]
+1 S root       368     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [loop4]
+4 S systemd+   399     1  0  80   0 - 25616 -      13:45 ?        00:00:00 /lib/systemd/systemd-timesyncd
+1 I root       428     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [cfg80211]
+1 I root       466     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [ktpacpid]
+1 I root       472     2  0  60 -20 -     0 -      13:45 ?        00:00:00 [kworker/u9:1]
+4 S syslog     885     1  0  80   0 - 64098 -      13:45 ?        00:00:02 /usr/sbin/rsyslogd -n
+4 S message+   886     1  0  80   0 - 17752 -      13:45 ?        00:00:37 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+4 S root       900     1  0  80   0 -  7989 -      13:45 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+0 S root       902     1  0  80   0 -  1099 -      13:45 ?        00:00:01 /usr/sbin/acpid
+4 S root       903     1  0  80   0 -  7161 -      13:45 ?        00:00:00 /lib/systemd/systemd-logind
+4 S root       904     1  0  80   0 - 152183 -     13:45 ?        00:00:47 /usr/sbin/NetworkManager --no-daemon
+4 S root       917     1  0  80   0 - 24442 -      13:45 ?        00:00:00 /usr/sbin/cupsd -l
+4 S root       918     1  0  80   0 - 73962 -      13:45 ?        00:00:01 /usr/lib/accountsservice/accounts-daemon
+4 S root       931     1  0  80   0 -  8316 -      13:45 ?        00:00:00 /usr/sbin/cron -f
+4 S root       933     1  0  80   0 - 42680 -      13:45 ?        00:00:04 /usr/sbin/thermald --no-daemon --dbus-enable
+4 S avahi      937     1  0  80   0 - 11227 -      13:45 ?        00:00:00 avahi-daemon: running [agus-ThinkPad-E470.local]
+4 S root       949     1  0  80   0 - 93270 -      13:45 ?        00:00:04 /usr/lib/snapd/snapd
+1 S avahi      970   937  0  80   0 - 11195 -      13:45 ?        00:00:00 avahi-daemon: chroot helper
+4 S root       972     1  0  80   0 - 68735 -      13:45 ?        00:00:00 /usr/sbin/cups-browsed
+5 S root       992     1  0  80   0 -  4868 -      13:45 ?        00:00:03 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+4 S root       999     1  0  80   0 - 75595 -      13:45 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+4 S root      1046     1  0  80   0 - 11040 -      13:45 ?        00:00:40 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+4 S nobody    1062   904  0  80   0 - 14295 -      13:45 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+4 S whoopsie  1108     1  0  80   0 - 131494 -     13:45 ?        00:00:00 /usr/bin/whoopsie -f
+4 S root      1142     1  0  80   0 - 90977 -      13:45 ?        00:00:00 /usr/sbin/gdm3
+4 S root      1182  1142  0  80   0 - 59150 -      13:45 ?        00:00:00 gdm-session-worker [pam/gdm-launch-environment]
+4 S gdm       1212     1  0  80   0 - 11315 -      13:45 ?        00:00:00 /lib/systemd/systemd --user
+5 S gdm       1213  1212  0  80   0 - 15938 -      13:45 ?        00:00:00 (sd-pam)
+4 S gdm       1216  1182  0  80   0 - 49446 -      13:45 tty7     00:00:00 /usr/lib/gdm3/gdm-x-session /usr/bin/gnome-session --autostart /usr/share/gdm/greeter/autostart
+4 S gdm       1218  1216  0  80   0 - 68596 -      13:45 tty7     00:00:00 /usr/lib/xorg/Xorg vt7 -displayfd 3 -auth /run/user/121/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+0 S gdm       1224  1216  0  80   0 - 10742 -      13:45 tty7     00:00:00 dbus-daemon --print-address 4 --session
+0 S gdm       1227  1216  0  80   0 - 139496 -     13:45 tty7     00:00:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+0 S gdm       1232     1  0  80   0 - 87866 -      13:45 tty7     00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+0 S gdm       1237  1232  0  80   0 - 10691 -      13:45 tty7     00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+0 S gdm       1239     1  0  80   0 - 51716 -      13:45 tty7     00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+0 S gdm       1253  1227  0  80   0 - 272889 -     13:45 tty7     00:00:00 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+4 S root      1261     1  0  80   0 - 87949 -      13:45 ?        00:00:01 /usr/lib/upower/upowerd
+0 S gdm       1277  1227  0  80   0 - 424550 -     13:45 tty7     00:00:01 gnome-shell --mode=gdm
+4 S colord    1279     1  0  80   0 - 79545 -      13:45 ?        00:00:00 /usr/lib/colord/colord
+1 S gdm       1291     1  0  69 -11 - 105183 -     13:45 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+4 S rtkit     1292     1  0  81   1 - 45886 -      13:45 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+0 S gdm       1307  1277  0  80   0 - 90124 -      13:45 tty7     00:00:00 ibus-daemon --xim --panel disable
+0 S gdm       1310  1307  0  80   0 - 69969 -      13:45 tty7     00:00:00 /usr/lib/ibus/ibus-dconf
+0 S gdm       1313     1  0  80   0 - 88819 -      13:45 tty7     00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+0 S gdm       1343  1307  0  80   0 - 51005 -      13:45 tty7     00:00:00 /usr/lib/ibus/ibus-engine-simple
+4 S root      1359     1  0  80   0 -  5048 -      13:45 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+4 S root      1366  1142  0  80   0 - 60700 -      13:46 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+4 S agus      1370     1  0  80   0 - 11315 ep_pol 13:46 ?        00:00:00 /lib/systemd/systemd --user
+5 S agus      1371  1370  0  80   0 - 15871 -      13:46 ?        00:00:00 (sd-pam)
+5 S agus      1376     1  0  80   0 - 90314 -      13:46 ?        00:00:03 /usr/bin/gnome-keyring-daemon --daemonize --login
+4 S agus      1379  1366  0  80   0 - 49446 poll_s 13:46 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script gnome-session --session=gnome
+4 S agus      1381  1379  1  80   0 - 88088 ep_pol 13:46 tty2     00:05:59 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+0 S agus      1387  1379  0  80   0 - 11030 ep_pol 13:46 tty2     00:00:01 dbus-daemon --print-address 4 --session
+0 S agus      1390  1379  0  80   0 - 142249 poll_s 13:46 tty2    00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=gnome
+1 S agus      1459  1390  0  80   0 -  2785 -      13:46 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch gnome-session --session=gnome
+1 S agus      1476     1  0  80   0 - 91258 poll_s 13:46 ?        00:00:08 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+0 S agus      1481     1  0  80   0 - 69738 poll_s 13:46 tty2     00:00:00 /usr/lib/gvfs/gvfsd
+0 S agus      1488     1  0  80   0 - 104999 futex_ 13:46 tty2    00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+0 S agus      1490  1476  0  80   0 - 70514 poll_s 13:46 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+0 S agus      1491  1476  0  80   0 - 109769 poll_s 13:46 ?       00:00:00 /usr/lib/ibus/ibus-ui-gtk3
+0 S agus      1500     1  0  80   0 - 88411 poll_s 13:46 tty2     00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+0 S agus      1502     1  0  80   0 - 89551 poll_s 13:46 ?        00:00:02 /usr/lib/ibus/ibus-x11 --kill-daemon
+0 S agus      1508  1500  0  80   0 - 10755 ep_pol 13:46 tty2     00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+0 S agus      1511     1  0  80   0 - 51716 poll_s 13:46 tty2     00:00:04 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+0 S agus      1526  1476  0  80   0 - 51546 poll_s 13:46 ?        00:00:02 /usr/lib/ibus/ibus-engine-simple
+0 S agus      1545  1390  0  80   0 - 371295 poll_s 13:46 tty2    00:00:10 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+1 S agus      1561     1  0  69 -11 - 109893 poll_s 13:46 ?       00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+0 S agus      1577  1390  2  80   0 - 545236 poll_s 13:46 tty2    00:10:57 /usr/bin/gnome-shell
+4 S geoclue   1579     1  0  80   0 - 93438 -      13:46 ?        00:00:03 /usr/lib/geoclue-2.0/geoclue -t 5
+0 S agus      1584  1545  0  80   0 -  5592 poll_s 13:46 tty2     00:00:01 syndaemon -i 1.0 -t -K -R
+0 S agus      1587     1  0  80   0 - 128331 poll_s 13:46 tty2    00:00:00 /usr/lib/gnome-settings-daemon/gsd-printer
+0 S agus      1600     1  0  80   0 - 152873 poll_s 13:46 tty2    00:00:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+0 S agus      1611     1  0  80   0 - 296053 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-source-registry
+0 S agus      1616     1  0  80   0 - 117553 poll_s 13:46 tty2    00:00:06 /usr/lib/telepathy/mission-control-5
+0 S agus      1618     1  0  80   0 - 75259 poll_s 13:46 tty2     00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+0 S agus      1621     1  0  80   0 - 29550238 poll_s 13:46 tty2  00:00:00 /usr/lib/gnome-online-accounts/goa-daemon
+4 S root      1629     1  0  80   0 - 95617 -      13:46 ?        00:00:03 /usr/lib/udisks2/udisksd --no-debug
+0 S agus      1637     1  0  80   0 - 102020 poll_s 13:46 tty2    00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+0 S agus      1643     1  0  80   0 - 69032 poll_s 13:46 tty2     00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+0 S agus      1650     1  0  80   0 - 65526 poll_s 13:46 tty2     00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+0 S agus      1660     1  0  80   0 - 74094 poll_s 13:46 tty2     00:00:00 /usr/lib/gnome-online-accounts/goa-identity-service
+0 S agus      1663     1  0  80   0 - 65983 poll_s 13:46 tty2     00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+0 S agus      1670  1390  0  99   - - 93164 poll_s 13:46 tty2     00:00:00 /usr/lib/tracker/tracker-miner-apps
+0 S agus      1672  1390  0  80   0 - 352319 futex_ 13:46 tty2    00:00:04 /usr/bin/gnome-software --gapplication-service
+0 S agus      1675  1390  0  99   - - 83846 poll_s 13:46 tty2     00:00:00 /usr/lib/tracker/tracker-miner-user-guides
+0 S agus      1677  1390  0  80   0 - 244820 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-alarm-notify
+0 S agus      1681     1  0  80   0 - 114633 poll_s 13:46 tty2    00:00:08 /usr/lib/tracker/tracker-store
+0 S agus      1684  1390  0  99  19 - 259142 poll_s 13:46 tty2    00:00:00 /usr/lib/tracker/tracker-miner-fs
+0 S agus      1694     1  0  80   0 - 237033 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-calendar-factory
+0 S agus      1713  1390  0  99  19 - 141290 poll_s 13:46 tty2    00:00:00 /usr/lib/tracker/tracker-extract
+4 S root      1725     1  0  80   0 - 128970 -     13:46 ?        00:00:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+1 S agus      1733     1  0  80   0 - 194100 poll_s 13:46 tty2    00:00:53 yakuake
+0 S agus      1744  1694  0  80   0 - 223238 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1694x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1694/2
+0 S agus      1753     1  0  80   0 - 16438 poll_s 13:46 tty2     00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+0 S agus      1756     1  0  80   0 - 175477 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+0 S agus      1758  1694  0  80   0 - 235685 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1694x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1694/3
+0 S agus      1788  1756  0  80   0 - 196401 poll_s 13:46 tty2    00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1756x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1756/2
+1 S agus      1820     1  0  80   0 - 44637 poll_s 13:46 ?        00:00:00 kdeinit4: kdeinit4 Running...
+1 S agus      1823  1820  0  80   0 - 50352 poll_s 13:46 ?        00:00:00 kdeinit4: klauncher [kdeinit] --fd=8
+1 S agus      1825     1  0  80   0 - 167855 poll_s 13:46 ?       00:00:00 kdeinit4: kded4 [kdeinit]
+1 S agus      1833     1  0  80   0 - 172659 poll_s 13:46 ?       00:00:00 /usr/bin/kglobalaccel
+1 S agus      1841     1  0  80   0 - 193988 poll_s 13:46 ?       00:00:00 /usr/bin/knotify4
+4 S agus      1946     1  1  80   0 - 756098 poll_s 13:46 tty2    00:10:41 /usr/lib/chromium-browser/chromium-browser --enable-pinch
+4 S agus      1983  1946  0  80   0 - 104679 wait  13:46 tty2     00:00:00 /usr/lib/chromium-browser/chromium-browser --type=zygote
+5 S agus      1989  1983  0  80   0 - 104679 poll_s 13:46 tty2    00:00:00 /usr/lib/chromium-browser/chromium-browser --type=zygote
+0 S agus      2042  1946  1  80   0 - 276044 poll_s 13:46 tty2    00:07:12 /usr/lib/chromium-browser/chromium-browser --type=gpu-process --field-trial-handle=10669363443430720060,9873675698029493188,131072 --gpu-preferences=KAAAAAAAAACAAACAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=D21D76A751F955B8BA8A5C9851F1B9C6
+1 S agus      2044  2042  0  80   0 - 130551 skb_wa 13:46 tty2    00:00:00 /usr/lib/chromium-browser/chromium-browser --type=-broker
+1 S agus      2147  1989  0  80   0 - 423151 futex_ 13:46 tty2    00:00:17 /usr/lib/chromium-browser/chromium-browser --type=renderer --field-trial-handle=10669363443430720060,9873675698029493188,131072 --service-pipe-token=2801FBA2F9AE521D94C1557746EF40E3 --lang=es-419 --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=2801FBA2F9AE521D94C1557746EF40E3 --renderer-client-id=3 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+1 S agus      2240  1989  0  80   0 - 403916 futex_ 13:46 tty2    00:00:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --field-trial-handle=10669363443430720060,9873675698029493188,131072 --service-pipe-token=7ABC30984F3C7EBE43AB0BA10EB27358 --lang=es-419 --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=7ABC30984F3C7EBE43AB0BA10EB27358 --renderer-client-id=10 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S agus      2257  1946  0  80   0 - 64213 poll_s 13:47 tty2     00:00:00 /usr/bin/python3 /usr/bin/chrome-gnome-shell chrome-extension://gphhapmejobijbbhgpjhcjognlahblep/
+0 S agus      2315     1  0  80   0 - 88146 poll_s 13:47 tty2     00:00:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+0 S agus      2341  1390  0  80   0 - 131919 poll_s 13:47 tty2    00:00:01 update-notifier
+0 S agus      2352     1  0  80   0 - 47857 poll_s 13:47 tty2     00:00:00 /usr/lib/gvfs/gvfsd-metadata
+0 S agus      2504  1390  0  80   0 - 95079 poll_s 13:48 tty2     00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+1 S agus      2546  1989  0  80   0 - 417467 futex_ 13:48 tty2    00:00:38 /usr/lib/chromium-browser/chromium-browser --type=renderer --field-trial-handle=10669363443430720060,9873675698029493188,131072 --service-pipe-token=DB344B64977C48A0E64936240A163F4F --lang=es-419 --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=DB344B64977C48A0E64936240A163F4F --renderer-client-id=20 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S agus      2690     1  0  80   0 - 44691 poll_s 13:49 tty2     00:00:00 /usr/lib/dconf/dconf-service
+4 S root      2694     1  0  80   0 - 43472 -      13:49 ?        00:00:00 /usr/bin/python3 /usr/lib/system-service/system-service-d
+1 S agus      2910  1989  0  80   0 - 383278 futex_ 13:52 tty2    00:01:36 /usr/lib/chromium-browser/chromium-browser --type=ppapi --field-trial-handle=10669363443430720060,9873675698029493188,131072 --ppapi-flash-args --lang=es-419 --service-request-channel-token=574B08E6B4D2B26989A4D5E67B4877B9
+1 S agus      2924  1989  0  80   0 - 215428 futex_ 13:52 tty2    00:00:00 /usr/lib/chromium-browser/chromium-browser --type=utility --field-trial-handle=10669363443430720060,9873675698029493188,131072 --lang=es-419 --service-sandbox-type=utility --service-request-channel-token=8749E916FCE34C7D7F2684A20E6CE553 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S agus      3808     1  0  80   0 - 92104 poll_s 15:26 tty2     00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+0 S agus      3820     1  0  80   0 - 92155 poll_s 15:26 tty2     00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/2
+0 S agus      3838     1  0  80   0 - 91538 poll_s 15:26 tty2     00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/4
+1 S agus      4749  1989  0  80   0 - 414774 futex_ 17:59 tty2    00:00:35 /usr/lib/chromium-browser/chromium-browser --type=renderer --field-trial-handle=10669363443430720060,9873675698029493188,131072 --service-pipe-token=1BD94BC24ABB6BB4CEF3F8D4849D00DD --lang=es-419 --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=1BD94BC24ABB6BB4CEF3F8D4849D00DD --renderer-client-id=35 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+1 S root      5091     2  0   9   - -     0 -      19:21 ?        00:00:00 [irq/125-mei_me]
+1 S root      5092     2  0   9   - -     0 -      19:21 ?        00:00:00 [irq/16-mmc0]
+0 S agus      5350     1  1  80   0 - 284493 poll_s 19:22 tty2    00:02:53 /opt/sublime_text/sublime_text
+0 S agus      5386  5350  0  80   0 - 55844 futex_ 19:22 tty2     00:00:05 /opt/sublime_text/plugin_host 5350
+0 S agus      5589     1  0  80   0 -  1126 wait   19:22 tty2     00:00:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+0 S agus      5595  5589  0  80   0 - 105869 poll_s 19:22 tty2    00:00:00 /usr/bin/zeitgeist-daemon
+0 S agus      5602     1  0  80   0 - 80368 poll_s 19:22 tty2     00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+0 S agus      5733  1733  0  80   0 -  6828 wait   20:13 pts/1    00:00:00 /bin/bash
+1 I root      5844     2  0  80   0 -     0 -      20:54 ?        00:00:01 [kworker/2:1]
+0 S agus      6104  1733  0  80   0 -  6763 wait   21:22 pts/2    00:00:00 /bin/bash
+1 D root      6120     2  0  80   0 -     0 -      21:24 ?        00:00:01 [kworker/u8:2]
+1 I root      6344     2  0  80   0 -     0 -      21:29 ?        00:00:00 [kworker/3:0]
+0 S agus      6364     1  0  80   0 - 25459095 poll_s 21:30 tty2  00:00:01 gnome-control-center network show-device /org/freedesktop/NetworkManager/Devices/1
+4 S agus      6946  6104  1  80   0 -  7596 poll_s 21:33 pts/2    00:00:53 htop
+1 I root      6961     2  0  80   0 -     0 -      21:35 ?        00:00:00 [kworker/0:2]
+1 I root      7093     2  0  80   0 -     0 -      22:01 ?        00:00:00 [kworker/1:0]
+1 I root      7238     2  0  80   0 -     0 -      22:29 ?        00:00:00 [kworker/1:1]
+1 I root      7240     2  0  80   0 -     0 -      22:31 ?        00:00:00 [kworker/u8:1]
+1 I root      7241     2  0  80   0 -     0 -      22:32 ?        00:00:00 [kworker/0:1]
+1 I root      7242     2  0  80   0 -     0 -      22:32 ?        00:00:00 [kworker/3:2]
+1 I root      7268     2  0  80   0 -     0 -      22:37 ?        00:00:00 [kworker/2:2]
+1 I root      7269     2  0  80   0 -     0 -      22:38 ?        00:00:00 [kworker/u8:0]
+1 I root      7275     2  0  80   0 -     0 -      22:41 ?        00:00:00 [kworker/3:1]
+1 I root      7276     2  0  80   0 -     0 -      22:41 ?        00:00:00 [kworker/0:0]
+1 I root      7277     2  0  80   0 -     0 -      22:41 ?        00:00:00 [kworker/1:2]
+1 I root      7291     2  0  80   0 -     0 -      22:42 ?        00:00:00 [kworker/2:0]
+1 I root      7297     2  0  80   0 -     0 -      22:43 ?        00:00:00 [kworker/u8:3]
+4 R agus      7320  5733  0  80   0 - 10418 -      22:46 pts/1    00:00:00 ps -elf

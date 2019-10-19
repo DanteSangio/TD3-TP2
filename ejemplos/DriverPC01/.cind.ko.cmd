@@ -1,0 +1,1 @@
+cmd_/home/dante/Escritorio/UTN/TD3/Ejemplos/Drivers/DriverPC01/cind.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/dante/Escritorio/UTN/TD3/Ejemplos/Drivers/DriverPC01/cind.ko /home/dante/Escritorio/UTN/TD3/Ejemplos/Drivers/DriverPC01/cind.o /home/dante/Escritorio/UTN/TD3/Ejemplos/Drivers/DriverPC01/cind.mod.o ;  true

@@ -1,0 +1,16 @@
+device tree
+- usar I2C numero 3
+- platform y device los mezclamos
+- solo hay que disponer de la propiedad "compatible" y la "frecuencia de operacion" del I2C, seteandola por device tree
+
+
+&i2c2 {
+   status = "okay";
+   clock-frecuency = <100000>;
+   pinctrl-names = "default";
+   pinctrl-0 = <&pingrl_i2c2_ctrl>;
+}
+
+
+
+- los pines son I2C son bidireccionales, tenemos que ponerlos como INPUT para 
