@@ -1,6 +1,25 @@
 #ifndef _SERVER_H
 #define _SERVER_H
 
+/********************INCLUDES********************/
+
+#include <stdio.h>
+#include <unistd.h>        // open() close()
+#include <stdlib.h>        // atoi()
+#include <arpa/inet.h>     // inet_ntoa()
+#include <semaphore.h>     // semaphore
+#include <sys/shm.h>       // shared memory
+#include <string.h>        // strerror()
+#include <pthread.h>       // thread
+#include <fcntl.h>         // open()
+#include <sys/ioctl.h>     // ioctl()
+#include <time.h>          // time()
+#include <sys/wait.h>      // signal()
+
+/******************FIN INCLUDES******************/
+
+/********************PLANTILLA HTTP********************/
+
 const char gszHttpTemplate[] = {"HTTP/1.1 200 OK \
 Date: Mon, 27 Jul 2009 12:28:53 GMT \
 Server: Apache/2.2.14 (Win32) \
@@ -10,6 +29,10 @@ Content-Type: text/html \
 Connection: Closed \
 \n\n \
 %s"};
+
+/********************FIN PLANTILLA HTTP*****************/
+
+/********************PLANTILLA PAGINA WEB********************/
 
 const char gszPageTemplate[] = {
 "<!DOCTYPE html> \
@@ -71,5 +94,7 @@ const char gszPageTemplate[] = {
 </body> \
 </html>"
 };
+
+/********************FIN PLANTILLA PAGINA WEB*****************/
 
 #endif /*_SERVER_H*/

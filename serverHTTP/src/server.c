@@ -23,7 +23,7 @@ Vamos a leer una propiedad del device tree -> OK!
 
 Vamos a probar leer el driver instalado -> OK!
 
-Vamos a agregar hilos para tener multiples conexiones
+Vamos a agregar hilos para tener multiples conexiones -> NOT
 
 */
 
